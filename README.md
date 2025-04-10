@@ -67,5 +67,3 @@ Saccade and intrusive thresholds were varied systematically (e.g., 0.5°–5.0°
 - Test with larger and more diverse datasets.
 - Explore real-time applications in clinical environments.
 
-## 📁 Project Structure
-
